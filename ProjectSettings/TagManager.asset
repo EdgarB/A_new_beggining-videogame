@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - gem
+  - portal_out
+  - scene_manager
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 74961797
+    locked: 0
+  - name: shadow
+    uniqueID: 961998747
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bedrock
+    uniqueID: 3530456845
+    locked: 0
+  - name: dissapearing_wall
+    uniqueID: 253545067
+    locked: 0
